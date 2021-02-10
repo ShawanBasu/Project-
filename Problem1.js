@@ -104,3 +104,4 @@ console.log("Car 33 is a "+inventory[i]['car_year']+" " +inventory[i]['car_make'
 break;
 }
 }
+
